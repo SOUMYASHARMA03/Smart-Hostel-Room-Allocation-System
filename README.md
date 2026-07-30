@@ -13,6 +13,16 @@ A desktop-based Smart Hostel Room Allocation System developed using **Java Swing
 - 💾 File-Based Data Storage
 - 🖥️ Interactive Java Swing GUI
 
+## Highlights
+
+- Java Swing Desktop Application
+- Custom Linked List Implementation
+- Priority Queue Based Room Allocation
+- Hash Map for Fast Room Search
+- Stack for Allocation History
+- Object-Oriented Design
+
+
 ## 🧠 Data Structures Used
 
 - Doubly Linked List (Student Records)
@@ -48,19 +58,19 @@ screenshots/
 
 ## 🚀 How to Run
 
+### Run the project
+
 1. Clone the repository
 
-```
-git clone https://github.com/YOUR_USERNAME/Smart-Hostel-Room-Allocation-System.git
+```bash
+git clone https://github.com/SOUMYASHARMA03/Smart-Hostel-Room-Allocation-System.git
 ```
 
-2. Open in VS Code or IntelliJ IDEA
+2. Open the project in VS Code or IntelliJ IDEA.
 
-3. Compile and run
+3. Ensure Java JDK 17 (or your project's required version) is installed.
 
-```
-Main.java
-```
+4. Run `Main.java` to start the application.
 
 ## 📸 Screenshots
 
