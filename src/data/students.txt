@@ -1,0 +1,6 @@
+ST001,1240000,Soumya,Female,3,BTech,1234567890,A,Veg,true,Night Owl,High,203,2,false
+ST002,1240001,Amisha,Female,3,BTech,1234509876,A,Non-Veg,true,Night Owl,High,203,3,false
+ST003,1240002,Chahat,Female,2,IT,1234098765,A,Veg,true,Early Bird,High,202,4,false
+ST004,1240003,Ramesh,Male,1,IT,0374528927,A,Non-Veg,true,Early Bird,Medium,201,5,false
+ST005,1240004,Rahul,Male,1,Pharmacy,8354820264,A,Non-Veg,false,Early Bird,Medium,101,6,true
+ST006,1240005,Aman,Male,2,Pharmacy,6392653729,A,Veg,true,Night Owl,Medium,-1,7,false
