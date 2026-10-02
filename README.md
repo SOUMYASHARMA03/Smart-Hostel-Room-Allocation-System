@@ -6,7 +6,6 @@ A desktop-based Smart Hostel Room Allocation System built with **Java Swing**, d
 
 - 🔐 Secure Login System
 - 👨‍🎓 Student Registration & Management
-- 🏠 Smart Room Allocation
 - 📋 Waiting List Management
 - 🤝 Roommate Compatibility Matching
 - 📊 Reports & Allocation History
